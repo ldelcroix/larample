@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace Larample\Http\Controllers\Auth;
 
-use App\User;
+use Larample\Models\User;
 use Validator;
-use App\Http\Controllers\Controller;
+use Larample\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
 

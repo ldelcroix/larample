@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Larample\Providers;
 
 use Illuminate\Support\ServiceProvider;
 
